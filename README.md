@@ -81,15 +81,7 @@ Un utilisateur installe **TrueNAS SCALE** sur un serveur maison pour :
 ✅ Accéder aux fichiers à distance via **Nextcloud**  
 ✅ Sécuriser ses données avec **ZFS et snapshots automatiques**  
 
-Résultat : Un **NAS puissant et fiable**, idéal pour centraliser et diffuser du contenu multimédia chez soi. 🎬📀
-
-## Contribution
-
-Guide pour les contributeurs potentiels.
-
-## Licence
-
-Informations sur la licence.
+Résultat : Un **NAS puissant et fiable**, idéal pour centraliser et diffuser du contenu multimédia chez soi.
 
 ## Contact
 
