@@ -85,6 +85,9 @@ Informations sur la licence.
 ## Contact
 
 -michael.vandevelde@laplateforme.io
+
 -etienne.verschuere@laplateforme.io
+
 -bastien.llorca@laplateforme.io
+
 -frederic.perry@laplateforme.io
