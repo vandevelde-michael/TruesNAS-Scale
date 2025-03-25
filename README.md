@@ -8,6 +8,7 @@ TrueNas-Scale est une solution de stockage en réseau open-source conçue pour o
 
 - [Documentation](#documentation)
 - [Installation](#installation)
+- [Utilisation](#utilisation).
 - [Contact](#contact).
 
 ## Documentation
@@ -72,7 +73,15 @@ Ces étapes devraient vous guider à travers l'installation de TrueNas Scale. Si
 
 ## Utilisation
 
-Exemples d'utilisation ou de cas d'usage.
+### **Cas d’usage : Serveur multimédia à domicile**  
+
+Un utilisateur installe **TrueNAS SCALE** sur un serveur maison pour :  
+✅ Stocker et gérer sa bibliothèque de films, séries et musiques  
+✅ Héberger **Plex** ou **Jellyfin** pour le streaming sur TV et appareils  
+✅ Accéder aux fichiers à distance via **Nextcloud**  
+✅ Sécuriser ses données avec **ZFS et snapshots automatiques**  
+
+Résultat : Un **NAS puissant et fiable**, idéal pour centraliser et diffuser du contenu multimédia chez soi. 🎬📀
 
 ## Contribution
 
