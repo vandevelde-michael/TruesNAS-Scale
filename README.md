@@ -92,6 +92,14 @@ https://batocera.org/download
 apres l'avoir telecharger sur le site officiel, (ne pas se tromper de version) nous avons procéder a differentes changfement de la configuation : 
 ajout de memoire vive sur la machine vkm true nas, passsage a 10Go
 
+attention a la virtualisation imbriqué qui peuttposer probleme dans ce cas la : 
+
+cmd en mode administrateur : (important)
+"bcdedit /set hypervisorlaunchtype off"
+ensuite cmd fonction avancées decocher hyper v , virtualisation
+
+rdmarrage imperatif
+
 
 ## Contact
 
