@@ -87,6 +87,12 @@ Un utilisateur installe **TrueNAS SCALE** sur un serveur maison pour :
 
 Résultat : Un **NAS puissant et fiable**, idéal pour centraliser et diffuser du contenu multimédia chez soi.
 
+Pour aller plus loin , nous avons choisit d'installer un emulateur 'Batocera Linux"
+https://batocera.org/download
+apres l'avoir telecharger sur le site officiel, (ne pas se tromper de version) nous avons procéder a differentes changfement de la configuation : 
+ajout de memoire vive sur la machine vkm true nas, passsage a 10Go
+
+
 ## Contact
 
 -michael.vandevelde@laplateforme.io
