@@ -17,6 +17,10 @@ Pour une documentation détaillée, veuillez consulter notre [page Notion](https
 
 ## Installation de TrueNas Scale
 
+Nous téléchargeons la dernieère version stable sur le site officiel :  (TrueNAS SCALE 24.10.2)
+
+https://www.truenas.com/download-truenas-scale/
+
 Suivez ces étapes pour installer TrueNas Scale sur votre matériel.
 
 ### Prérequis
