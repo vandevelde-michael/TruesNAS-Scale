@@ -13,7 +13,7 @@ TrueNas-Scale est une solution de stockage en réseau open-source conçue pour o
 
 ## Documentation
 
-Pour une documentation détaillée, veuillez consulter notre [page Notion](https://drive.google.com/file/d/1iegf2-bEpekyvBJ6mdYS3hyOEy3ysqYu/view?usp=sharing)
+Pour une documentation détaillée, veuillez consulter notre [page Notion](https://drive.google.com/file/d/1MzYY7SDqee51eFPt1YgNQkfK2pvCUNlh/view?usp=sharing)
 
 ## Installation de TrueNas Scale
 
